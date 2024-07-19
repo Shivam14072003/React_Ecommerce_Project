@@ -1,0 +1,10 @@
+.description>input{
+    border-style: none;
+    width: 300px;
+    padding: 4px;
+    
+}
+.resultField{
+    position: absolute;
+    background-color: aliceblue;
+}

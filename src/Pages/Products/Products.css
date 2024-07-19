@@ -1,0 +1,12 @@
+.products{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.products-row{
+    width: 30%;
+
+}
+.products-row>img{
+    height: 200px;
+}
